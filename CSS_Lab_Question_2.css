@@ -1,0 +1,16 @@
+body{
+	 background-color: #f0f0f2;
+     }
+.section{
+		background-color: #fff;
+		margin: 80px auto;
+		width: 45%;
+		border-radius: 10px;
+		padding: 50px 25px;
+		font-family: "Arial";
+		text-align: justify;
+        }
+a{
+	text-decoration: none;
+	font-size: 18px;
+  }
